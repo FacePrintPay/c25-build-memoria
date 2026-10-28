@@ -82,3 +82,5 @@ echo "Next steps:"
 echo "  git remote add origin <your-github-url>"
 echo "  git push -u origin main"
 echo ""
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=build-memoria.sh
